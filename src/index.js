@@ -2,7 +2,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import App from "./Components/App";
+//import App from "./Components/App";
+import App from "./AnimalsAppComponents/App";
 
 // 2) Get a reference to the div with ID root
 const element = document.getElementById("root");
